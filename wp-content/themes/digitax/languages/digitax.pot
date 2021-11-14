@@ -1,0 +1,781 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: digitax\n"
+"POT-Creation-Date: 2019-03-21 18:34+0700\n"
+"PO-Revision-Date: 2019-03-16 15:11+0700\n"
+"Last-Translator: \n"
+"Language-Team: ovatheme\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr;esc_attr_e;_x;"
+"esc_html_x;esc_url\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:10
+msgid "/assets/img/404_error.png"
+msgstr ""
+
+#: 404.php:10
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:11
+msgid "Ohh! Page Not Found"
+msgstr ""
+
+#: 404.php:12
+msgid ""
+"It looks like nothing was found at this location. Click the button below to "
+"return home."
+msgstr ""
+
+#: 404.php:13
+msgid "GO BACK HOME"
+msgstr ""
+
+#: comments.php:9
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:9
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:9
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:24
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:25
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:26
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:31
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:40
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:40
+msgid "Your email address will not be published"
+msgstr ""
+
+#: comments.php:48
+msgid "Submit Now"
+msgstr ""
+
+#: content/content-none.php:2
+msgid "Nothing Found"
+msgstr ""
+
+#: content/content-none.php:8
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content/content-none.php:12
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content/content-none.php:17
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content/content-page.php:16 content/define_blocks_content.php:133
+msgid "Pages:"
+msgstr ""
+
+#: content/content-page.php:20
+msgid "Page"
+msgstr ""
+
+#: content/define_blocks_content.php:69
+msgid " 0 comment"
+msgstr ""
+
+#: content/define_blocks_content.php:70
+msgid " 1 comment"
+msgstr ""
+
+#: content/define_blocks_content.php:71
+msgid "comments"
+msgstr ""
+
+#: content/define_blocks_content.php:73
+msgid "Comment off"
+msgstr ""
+
+#: content/define_blocks_content.php:85
+msgid "Posted By: "
+msgstr ""
+
+#: content/define_blocks_content.php:94 content/define_blocks_content.php:172
+msgid "Categories: "
+msgstr ""
+
+#: content/define_blocks_content.php:103
+msgid "Posted: "
+msgstr ""
+
+#: content/define_blocks_content.php:153
+msgid "Read More"
+msgstr ""
+
+#: content/define_blocks_content.php:165
+msgid "Tags: "
+msgstr ""
+
+#: content/define_blocks_content.php:179
+msgid "Share: "
+msgstr ""
+
+#: content/define_blocks_content.php:200
+msgid "active"
+msgstr ""
+
+#: content/define_blocks_content.php:260
+msgid "(Edit)"
+msgstr ""
+
+#: content/define_blocks_content.php:266
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: content/post-default.php:96
+msgid "Author"
+msgstr ""
+
+#: customize/class-customize.php:46
+msgid "Typography"
+msgstr ""
+
+#: customize/class-customize.php:64
+msgid "General Typo"
+msgstr ""
+
+#: customize/class-customize.php:80
+msgid "Primary Font"
+msgstr ""
+
+#: customize/class-customize.php:102
+msgid "Font Size"
+msgstr ""
+
+#: customize/class-customize.php:103
+msgid "Example: 16px, 1.2em"
+msgstr ""
+
+#: customize/class-customize.php:121
+msgid "Line height"
+msgstr ""
+
+#: customize/class-customize.php:122
+msgid "Example: 23px, 1.6em"
+msgstr ""
+
+#: customize/class-customize.php:141
+msgid "Letter Spacing"
+msgstr ""
+
+#: customize/class-customize.php:142
+msgid "Example: 0px, 0.5em"
+msgstr ""
+
+#: customize/class-customize.php:163
+msgid "Content Color"
+msgstr ""
+
+#: customize/class-customize.php:188
+msgid "General Color"
+msgstr ""
+
+#: customize/class-customize.php:209
+msgid "Primary color"
+msgstr ""
+
+#: customize/class-customize.php:235 customize/class-customize.php:247
+#: customize/class-customize.php:264
+msgid "Custom Font"
+msgstr ""
+
+#: customize/class-customize.php:265
+msgid ""
+"Step 1: Insert font-face in style.css file: Refer https://www.w3schools.com/"
+"cssref/css3_pr_font-face_rule.asp. Step 2: Insert font-family and font-"
+"weight like format: \n"
+"\t\t\t\t\t[\"Perpetua\", \"Regular:Bold:Italic:Light\"]. Step 3: Refresh "
+"customize page to display new font in dropdown font field."
+msgstr ""
+
+#: customize/class-customize.php:282 customize/class-customize.php:317
+#: customize/class-customize.php:511 customize/class-customize.php:592
+msgid "Layout"
+msgstr ""
+
+#: customize/class-customize.php:297
+msgid "Preload"
+msgstr ""
+
+#: customize/class-customize.php:302
+msgid "Yes"
+msgstr ""
+
+#: customize/class-customize.php:303
+msgid "No"
+msgstr ""
+
+#: customize/class-customize.php:334 customize/class-customize.php:528
+#: customize/class-customize.php:609
+msgid "Sidebar Width (px)"
+msgstr ""
+
+#: customize/class-customize.php:351
+msgid "Width Content (px)"
+msgstr ""
+
+#: customize/class-customize.php:368
+msgid "Width Site"
+msgstr ""
+
+#: customize/class-customize.php:385
+msgid "Boxed Container Width (px)"
+msgstr ""
+
+#: customize/class-customize.php:401
+msgid "Boxed Offset (px)"
+msgstr ""
+
+#: customize/class-customize.php:414 customize/class-customize.php:551
+#: customize/class-customize.php:628
+msgid "Header"
+msgstr ""
+
+#: customize/class-customize.php:428
+msgid "Header Default"
+msgstr ""
+
+#: customize/class-customize.php:429 customize/class-customize.php:457
+msgid "This isn't effect in Blog"
+msgstr ""
+
+#: customize/class-customize.php:442 customize/class-customize.php:568
+#: customize/class-customize.php:645
+msgid "Footer"
+msgstr ""
+
+#: customize/class-customize.php:456
+msgid "Footer Default"
+msgstr ""
+
+#: customize/class-customize.php:471 extend/breadcrumbs.php:114
+#: inc/init.php:231
+msgid "Blog"
+msgstr ""
+
+#: customize/class-customize.php:476
+msgid "Archive"
+msgstr ""
+
+#: customize/class-customize.php:491
+#: inc/vendor/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: customize/class-customize.php:497 inc/class_hook.php:126
+#: inc/class_hook.php:157
+msgid "Default"
+msgstr ""
+
+#: customize/class-customize.php:577
+msgid "Single"
+msgstr ""
+
+#: customize/class-customize.php:661
+msgid "Language Countdown"
+msgstr ""
+
+#: customize/class-customize.php:674
+msgid "Language"
+msgstr ""
+
+#: customize/custom-control/google-font.php:120
+msgid "Load Font Weight"
+msgstr ""
+
+#: customize/render-style.php:39
+msgid "on"
+msgstr ""
+
+#: extend/breadcrumbs.php:15 inc/init.php:223 inc/init.php:227
+msgid "Home"
+msgstr ""
+
+#: extend/breadcrumbs.php:46
+msgid "Archive by date"
+msgstr ""
+
+#: extend/breadcrumbs.php:51
+msgid "Archive by month"
+msgstr ""
+
+#: extend/breadcrumbs.php:55
+msgid "Archive by year"
+msgstr ""
+
+#: extend/breadcrumbs.php:70
+msgid "Search results for"
+msgstr ""
+
+#: extend/breadcrumbs.php:108
+msgid "Archive by tag"
+msgstr ""
+
+#: extend/breadcrumbs.php:112
+msgid "Articles posted by"
+msgstr ""
+
+#: extend/breadcrumbs.php:116
+msgid "You got it Error 404 not Found"
+msgstr ""
+
+#: extend/register_menu_widget.php:6
+msgid "Primary Menu"
+msgstr ""
+
+#: extend/register_menu_widget.php:16 extend/register_menu_widget.php:18
+msgid "Main Sidebar"
+msgstr ""
+
+#: footer/footer-default.php:3
+msgid "Design and Develop by Ovatheme"
+msgstr ""
+
+#: header-404.php:27 header/header-default.php:13
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/class_hook.php:188
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/class_hook.php:189
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/class_hook.php:190
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/class_hook.php:248
+msgid "Wide"
+msgstr ""
+
+#: inc/class_hook.php:249
+msgid "Boxed"
+msgstr ""
+
+#: inc/init.php:56
+msgid "<div class=\"blog_pagination\"><ul class=\"pagination\">"
+msgstr ""
+
+#: inc/init.php:69 inc/init.php:82
+msgid "<li><span class=\"pagi_dots\">...</span></li>"
+msgstr ""
+
+#: inc/init.php:92
+msgid "</ul></div>"
+msgstr ""
+
+#: inc/init.php:235
+msgid "Search"
+msgstr ""
+
+#: inc/init.php:243
+msgid "Tags"
+msgstr ""
+
+#: inc/init.php:288
+msgid "Logo Default"
+msgstr ""
+
+#: inc/ova_walker_nav_menu.php:197
+msgid "Add a menu"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:393
+#: inc/vendor/class-tgm-plugin-activation.php:912
+#: inc/vendor/class-tgm-plugin-activation.php:2618
+#: inc/vendor/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:394
+#: inc/vendor/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:1019
+#: inc/vendor/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:1206
+#: inc/vendor/class-tgm-plugin-activation.php:3033
+msgid "and"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3594
+msgid "Show Details"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3594
+msgid "Hide Details"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: install_resource/active_plugins.php:60
+msgid "Elementor"
+msgstr ""
+
+#: install_resource/active_plugins.php:65
+msgid "Contact Form 7"
+msgstr ""
+
+#: install_resource/active_plugins.php:70
+msgid "Widget importer exporter"
+msgstr ""
+
+#: install_resource/active_plugins.php:75
+msgid "Metabox"
+msgstr ""
+
+#: install_resource/active_plugins.php:80
+msgid "MailChimp"
+msgstr ""
+
+#: install_resource/active_plugins.php:85
+msgid "One click demo import"
+msgstr ""
+
+#: install_resource/active_plugins.php:90
+msgid "OvaTheme Framework"
+msgstr ""
+
+#: install_resource/active_plugins.php:97
+msgid "OvaTheme Case Study"
+msgstr ""
+
+#: install_resource/active_plugins.php:104
+msgid "OvaTheme Portfolio"
+msgstr ""
+
+#: page.php:10
+msgid "Sorry, no pages matched your criteria."
+msgstr ""
+
+#: search.php:8
+msgid "Search Results for: "
+msgstr ""

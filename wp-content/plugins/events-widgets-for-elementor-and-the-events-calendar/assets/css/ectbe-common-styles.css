@@ -1,0 +1,257 @@
+﻿/*ECT ICONS FONT*/
+@font-face {
+  font-family: 'ecticons';
+  src: url('font/ectbeicons.eot?24096328');
+  src: url('font/ectbeicons.eot?24096328#iefix') format('embedded-opentype'),
+       url('font/ectbeicons.woff2?24096328') format('woff2'),
+       url('font/ectbeicons.woff?24096328') format('woff'),
+       url('font/ectbeicons.ttf?24096328') format('truetype'),
+       url('font/ectbeicons.svg?24096328#ecticons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+  /* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+  /* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+  /*
+  @media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+      font-family: 'ecticons';
+      src: url('font/ecticons.svg?24096328#ecticons') format('svg');
+    }
+  }
+  */
+   
+   [class^="ectbe-icon-"]:before, [class*=" ectbe-icon-"]:before {
+    font-family: "ecticons";
+    font-style: normal;
+    font-weight: normal;
+    speak: none;
+   
+    display: inline-block;
+    text-decoration: inherit;
+    width: 1em;
+    margin-right: .2em;
+    text-align: center;
+    /* opacity: .8; */
+   
+    /* For safety - reset parent styles, that can break glyph codes*/
+    font-variant: normal;
+    text-transform: none;
+   
+    /* fix buttons height, for twitter bootstrap */
+    line-height: 1em;
+   
+    /* Animation center compensation - margins should be symmetric */
+    /* remove if not needed */
+    margin-left: .2em;
+   
+    /* you can be more comfortable with increased icons size */
+    /* font-size: 120%; */
+   
+    /* Font smoothing. That was taken from TWBS */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+   
+    /* Uncomment for 3D effect */
+    /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+  }
+   
+  .ectbe-icon-star:before { content: '\e800'; } /* '' */
+  .ectbe-icon-down:before { content: '\e801'; } /* '' */
+  .ectbe-icon-up:before { content: '\e802'; } /* '' */
+  .ectbe-icon-flight:before { content: '\e803'; } /* '' */
+  .ectbe-icon-bell:before { content: '\e804'; } /* '' */
+  .ectbe-icon-left:before { content: '\e805'; } /* '' */
+  .ectbe-icon-right:before { content: '\e806'; } /* '' */
+  .ectbe-icon-flash:before { content: '\e807'; } /* '' */
+  .ectbe-icon-card:before { content: '\e808'; } /* '' */
+  .ectbe-icon-calendar:before { content: '\e809'; } /* '' */
+  .ectbe-icon-calendar-alt:before { content: '\e80a'; } /* '' */
+  .ectbe-icon-clock:before { content: '\e80b'; } /* '' */
+  .ectbe-icon-clock-alt:before { content: '\e80c'; } /* '' */
+  .ectbe-icon-tag:before { content: '\e80d'; } /* '' */
+  .ectbe-icon-pin:before { content: '\e80e'; } /* '' */
+  .ectbe-icon-tags:before { content: '\e80f'; } /* '' */
+  .ectbe-icon-location:before { content: '\e810'; } /* '' */
+  .ectbe-icon-location-alt:before { content: '\e811'; } /* '' */
+  .ectbe-icon-wallet:before { content: '\e812'; } /* '' */
+  .ectbe-icon-share-alt:before { content: '\e813'; } /* '' */
+  .ectbe-icon-search:before { content: '\e814'; } /* '' */
+  .ectbe-icon-users:before { content: '\e815'; } /* '' */
+  .ectbe-icon-user:before { content: '\e816'; } /* '' */
+  .ectbe-icon-home:before { content: '\e817'; } /* '' */
+  .ectbe-icon-link:before { content: '\e818'; } /* '' */
+  .ectbe-icon-star-circled:before { content: '\e819'; } /* '' */
+  .ectbe-icon-heart:before { content: '\e81a'; } /* '' */
+  .ectbe-icon-tag-alt:before { content: '\e81b'; } /* '' */
+  .ectbe-icon-spin:before { content: '\e839'; } /* '' */
+  .ectbe-icon-phone:before { content: '\f098'; } /* '' */
+  .ectbe-icon-certificate:before { content: '\f0a3'; } /* '' */
+  .ectbe-icon-filter:before { content: '\f0b0'; } /* '' */
+  .ectbe-icon-money:before { content: '\f0d6'; } /* '' */
+  .ectbe-icon-mail-alt:before { content: '\f0e0'; } /* '' */
+  .ectbe-icon-bulb:before { content: '\f0eb'; } /* '' */
+  .ectbe-icon-bell-alt:before { content: '\f0f3'; } /* '' */
+  .ectbe-icon-coffee:before { content: '\f0f4'; } /* '' */
+  .ectbe-icon-food:before { content: '\f0f5'; } /* '' */
+  .ectbe-icon-left-double:before { content: '\f100'; } /* '' */
+  .ectbe-icon-right-double:before { content: '\f101'; } /* '' */
+  .ectbe-icon-up-double:before { content: '\f102'; } /* '' */
+  .ectbe-icon-down-double:before { content: '\f103'; } /* '' */
+  .ectbe-icon-quote-left:before { content: '\f10d'; } /* '' */
+  .ectbe-icon-quote-right:before { content: '\f10e'; } /* '' */
+  .ectbe-icon-mic:before { content: '\f130'; } /* '' */
+  .ectbe-icon-ticket:before { content: '\f145'; } /* '' */
+  .ectbe-icon-ok:before { content: '\f14a'; } /* '' */
+  .ectbe-icon-down-alt:before { content: '\f150'; } /* '' */
+  .ectbe-icon-up-alt:before { content: '\f151'; } /* '' */
+  .ectbe-icon-right-alt:before { content: '\f152'; } /* '' */
+  .ectbe-icon-euro:before { content: '\f153'; } /* '' */
+  .ectbe-icon-pound:before { content: '\f154'; } /* '' */
+  .ectbe-icon-dollar:before { content: '\f155'; } /* '' */
+  .ectbe-icon-bitcoin:before { content: '\f15a'; } /* '' */
+  .ectbe-icon-thumbs-up:before { content: '\f164'; } /* '' */
+  .ectbe-icon-thumbs-down:before { content: '\f165'; } /* '' */
+  .ectbe-icon-youtube:before { content: '\f166'; } /* '' */
+  .ectbe-icon-left-alt:before { content: '\f191'; } /* '' */
+  .ectbe-icon-mail:before { content: '\f199'; } /* '' */
+  .ectbe-icon-car:before { content: '\f1b9'; } /* '' */
+  .ectbe-icon-share:before { content: '\f1e1'; } /* '' */
+  .ectbe-icon-diamond:before { content: '\f219'; } /* '' */
+  .ectbe-icon-whatsapp:before { content: '\f232'; } /* '' */
+  .ectbe-icon-twitter:before { content: '\f304'; } /* '' */
+  .ectbe-icon-facebook:before { content: '\f308'; } /* '' */
+  .ectbe-icon-linkedin:before { content: '\f30c'; } /* '' */
+
+/*ECT ICONS FONT - END*/
+
+
+.ectbe-load-more {
+  display: inline-block;
+  clear: both;
+  width: 100%;
+  margin: 10px 0;
+  padding: 0;
+  text-align: center;
+  position:relative;
+}
+.ectbe-load-more a.ectbe-load-more-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #ddd;
+  font-size: 20px;
+  text-align:center;
+  z-index: 2;
+  text-decoration: none;
+}
+.ectbe-load-more a.ectbe-load-more-btn:hover,
+.ectbe-load-more a.ectbe-load-more-btn:focus {
+  opacity:0.9;
+  text-decoration: none;
+  border-bottom: 0;
+}
+.ectbe-load-more img.ectbe-preloader {
+  filter: invert(100%);
+  height: 28px;
+  width: auto;
+  vertical-align: middle;
+}
+.ectbe-load-more:before,
+.ectbe-load-more:after {
+    content: "";
+    width: 38%;
+    height: 2px;
+    position: absolute;
+    top: 50%;
+    z-index: 1;
+}
+.ectbe-load-more:before {
+    left:0;
+}
+.ectbe-load-more:after {
+    right:0;
+}
+
+
+span.ectbe-ticket-info {
+  font-size: 0.75em;
+  display: inline-block;
+}
+span.ectbe-ticket-info span.tribe-tickets-left {
+  display: inline-block;
+}
+span.ectbe-ticket-info span.tribe-tickets-left:before {
+  content: "(";
+}
+span.ectbe-ticket-info span.tribe-tickets-left:after {
+  content: ")";
+}
+span.ectbe-ticket-info span.tribe-out-of-stock {
+  font-style: italic;
+  color: red;
+  display: inline-block;
+}
+span.ectbe-ticket-info a {
+  display: inline-block;
+  background: #222;
+  background-size: 200% auto!important;
+  transition: 0.5s;
+  color: #fff;
+  padding: 5px;
+  border-radius: 4px;
+}
+span.ectbe-ticket-info a:hover {
+  background-position: right center;
+  text-decoration: none;
+}
+
+
+.ectbe-event-category {
+  margin: 3px 0;
+  display: inline-block;
+  line-height:14px;
+}
+
+.ectbe-event-category ul.tribe_events_cat {
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+  font-size: 12px;
+  line-height:14px;
+  list-style: none;
+}
+
+.ectbe-event-category ul.tribe_events_cat li {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  padding-right: 4px;
+  padding-bottom: 3px;
+  text-transform: capitalize;
+}
+
+.ectbe-event-category ul.tribe_events_cat li a {
+  background: #f4fcff;
+  border: 1px solid;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 2px;
+}
+
+.ectbe-event-category ul.tribe_events_cat li:hover a {
+  opacity:0.82;
+}
+
+
+/*
+|-----------------------------
+| Responsive media query
+|-----------------------------
+*/
+@media only screen and (max-width: 640px) {
+  .ectbe-load-more:before,
+  .ectbe-load-more:after {
+      content: "";
+      width: 25%;
+  }
+}

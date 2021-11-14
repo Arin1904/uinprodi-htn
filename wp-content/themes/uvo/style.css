@@ -1,0 +1,33 @@
+/*
+Theme Name: UVO
+Theme URI: https://uvo.radiantthemes.com/
+Author: RadiantThemes
+Author URI: https://radiantthemes.com
+Description: UVO is SEO & Digital Marketing Agency Theme solely focused for SEO and Digital Marketing Firms. It has carefully crafted SEO demos, outstanding sliders made with Slider Revolution, Clean Coding, Fast Performance give it edge over other SEO Themes.. Outstanding Blog and Portfolio would give you scope to expand your site beyond a plain digital marketing site.
+Version: 1.0.2
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: uvo
+Tags: agency, consulting, digital agency, digital marketing, digital marketing agency, marketing, marketing agency, media agency, portfolio, seo, seo agency, seo agency theme, SEO Marketing, SMM, social media marketing agency.
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+UVO is based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+*/
+
+.admin-bar .block {
+    top: 32px;
+}
+#yith-quick-view-content .input-group-addon.quantity-decrease,
+#yith-quick-view-content .input-group-addon.quantity-increase {
+    display: none;
+}
+.woocommerce .blockUI.blockOverlay {
+    position: relative !important;
+    display: none !important;
+}
+.footer_copyright_item a:hover {
+    color: #fff;
+}

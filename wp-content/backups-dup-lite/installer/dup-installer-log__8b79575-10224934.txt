@@ -1,0 +1,735 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 03:56:20
+* VERSION: 1.4.3
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 7.4.16                                |7.4.16
+OS__________________: WINNT                                 |WINNT
+CREATED_____________: 2021-11-10 22:49:34
+WP VERSION__________: 5.8.1
+DUP VERSION_________: 1.4.3
+DB__________________: 10.4.18
+DB TABLES___________: 75
+DB ROWS_____________: 11,475
+DB FILE SIZE________: 77.19MB
+********************************************************************************
+SERVER INFO
+PHP_________________: 7.4.16 | SAPI: apache2handler
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: Apache/2.4.46 (Win64) OpenSSL/1.1.1j PHP/7.4.16
+DOC ROOT____________: "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "http://localhost/uin-prodi4/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ACTION______: "donothing"
+ARCHIVE ENGINE______: "ziparchive"
+SET DIR PERMS_______: 0
+DIR PERMS VALUE_____: 644
+SET FILE PERMS______: 0
+FILE PERMS VALUE____: 755
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+CONFIG MODE_________: "NEW"
+FILE TIME___________: "current"
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4/prodi_pbdg_mzhb_ready_[HASH]_20211110224934_archive.zip"
+SIZE________________: 423.36MB
+
+PRE-EXTRACT-CHECKS
+- PASS: Apache '.htaccess' not found - no backup needed.
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+BEFORE EXTRACION ACTIONS
+MAINTENANCE MODE ENABLE
+
+
+START ZIP FILE EXTRACTION STANDARD >>> 
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4/prodi_pbdg_mzhb_ready_[HASH]_20211110224934_archive.zip"
+SIZE________________: 423.36MBFile timestamp set to Current: 2021-11-11 03:58:23
+<<< ZipArchive Unzip Complete: true
+--------------------------------------
+POST-EXTACT-CHECKS
+--------------------------------------
+
+PERMISSION UPDATES: None Applied
+
+STEP-1 COMPLETE @ 03:58:23 - RUNTIME: 122.8680 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 03:59:30
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "create"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTION CREATION___: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.4.18 -- Build Server: 10.4.18
+FILE SIZE:	dup-database__[HASH].sql (57.28MB)
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE:	NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4/dup-installer/dup-installer-data__[HASH].sql]
+COLLATE FB:	Off
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+DB FUNCTIONS:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	692
+
+wp_actionscheduler_actions: (3)
+wp_actionscheduler_claims: (0)
+wp_actionscheduler_groups: (1)
+wp_actionscheduler_logs: (7)
+wp_addonlibrary_addons: (1)
+wp_addonlibrary_categories: (1)
+wp_alm: (1)
+wp_alm_unlimited: (0)
+wp_commentmeta: (0)
+wp_comments: (0)
+wp_duplicator_packages: (0)
+wp_e_submissions: (0)
+wp_e_submissions_actions_log: (0)
+wp_e_submissions_values: (0)
+wp_links: (0)
+wp_mec_attendees: (0)
+wp_mec_bookings: (0)
+wp_mec_dates: (0)
+wp_mec_events: (0)
+wp_mec_occurrences: (0)
+wp_mec_users: (0)
+wp_options: (681)
+wp_postmeta: (9949)
+wp_posts: (1462)
+wp_revslider_css: (134)
+wp_revslider_css_bkp: (47)
+wp_revslider_layer_animations: (0)
+wp_revslider_layer_animations_bkp: (0)
+wp_revslider_navigations: (0)
+wp_revslider_navigations_bkp: (0)
+wp_revslider_sliders: (0)
+wp_revslider_sliders_bkp: (0)
+wp_revslider_slides: (0)
+wp_revslider_slides_bkp: (0)
+wp_revslider_static_slides: (0)
+wp_revslider_static_slides_bkp: (0)
+wp_sbi_instagram_feed_locator: (0)
+wp_sbi_instagram_feeds_posts: (0)
+wp_sbi_instagram_posts: (0)
+wp_spectrom_sync: (0)
+wp_spectrom_sync_log: (0)
+wp_spectrom_sync_sources: (0)
+wp_term_relationships: (53)
+wp_term_taxonomy: (31)
+wp_termmeta: (6)
+wp_terms: (31)
+wp_usermeta: (46)
+wp_users: (1)
+wp_wc_admin_note_actions: (29)
+wp_wc_admin_notes: (30)
+wp_wc_category_lookup: (1)
+wp_wc_customer_lookup: (0)
+wp_wc_download_log: (0)
+wp_wc_order_coupon_lookup: (0)
+wp_wc_order_product_lookup: (0)
+wp_wc_order_stats: (0)
+wp_wc_order_tax_lookup: (0)
+wp_wc_product_meta_lookup: (0)
+wp_wc_reserved_stock: (0)
+wp_wc_tax_rate_classes: (2)
+wp_wc_webhooks: (0)
+wp_woocommerce_api_keys: (0)
+wp_woocommerce_attribute_taxonomies: (0)
+wp_woocommerce_downloadable_product_permissions: (0)
+wp_woocommerce_log: (0)
+wp_woocommerce_order_itemmeta: (0)
+wp_woocommerce_order_items: (0)
+wp_woocommerce_payment_tokenmeta: (0)
+wp_woocommerce_payment_tokens: (0)
+wp_woocommerce_sessions: (1)
+wp_woocommerce_shipping_zone_locations: (0)
+wp_woocommerce_shipping_zone_methods: (0)
+wp_woocommerce_shipping_zones: (0)
+wp_woocommerce_tax_rate_locations: (0)
+wp_woocommerce_tax_rates: (0)
+Removed '45' cache/transient rows
+
+INSERT DATA RUNTIME: 186.2328 sec.
+STEP-2 COMPLETE @ 04:02:37 - RUNTIME: 187.0242 sec.
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 04:03:06
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "Hukum Tata Negara"
+postguid______________: false
+fullsearch____________: false
+path_old______________: "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi"
+path_new______________: "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+siteurl_______________: "http://localhost/uin-prodi4"
+url_old_______________: "http://localhost/uin-prodi"
+url_new_______________: "http://localhost/uin-prodi4"
+maxSerializeStrlen____: 4000000
+replaceMail___________: false
+dbcharset_____________: "utf8"
+dbcollate_____________: "utf8_general_ci"
+wp_mail_______________: ""
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+ssl_admin_____________: false
+cache_wp______________: false
+cache_path____________: false
+exe_safe_mode_________: false
+config_mode___________: "NEW"
+********************************************************************************
+
+
+====================================
+RUN SEARCH AND REPLACE
+====================================
+
+EVALUATE TABLE: "wp_actionscheduler_actions"______________________[ROWS:     3][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  2:"G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  3:"G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  4:"G:\Programs\XAMPP php ver7.4\htdocs\uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  5:"G:\\Programs\\XAMPP php ver7.4\\htdocs\\uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  6:"G%3A%5CPrograms%5CXAMPP+php+ver7.4%5Chtdocs%5Cuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  7:"//localhost/uin-prodi" ===========================> "//localhost/uin-prodi4"
+	SEARCH  8:"\/\/localhost\/uin-prodi" ========================> "\/\/localhost\/uin-prodi4"
+	SEARCH  9:"%2F%2Flocalhost%2Fuin-prodi" =====================> "%2F%2Flocalhost%2Fuin-prodi4"
+	SEARCH 10:"https://localhost/uin-prodi4" ====================> "http://localhost/uin-prodi4"
+	SEARCH 11:"https:\/\/localhost\/uin-prodi4" =================> "http:\/\/localhost\/uin-prodi4"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Fuin-prodi4" ============> "http%3A%2F%2Flocalhost%2Fuin-prodi4"
+
+EVALUATE TABLE: "wp_actionscheduler_claims"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_actionscheduler_groups"_______________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  2:"G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  3:"G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  4:"G:\Programs\XAMPP php ver7.4\htdocs\uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  5:"G:\\Programs\\XAMPP php ver7.4\\htdocs\\uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  6:"G%3A%5CPrograms%5CXAMPP+php+ver7.4%5Chtdocs%5Cuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  7:"//localhost/uin-prodi" ===========================> "//localhost/uin-prodi4"
+	SEARCH  8:"\/\/localhost\/uin-prodi" ========================> "\/\/localhost\/uin-prodi4"
+	SEARCH  9:"%2F%2Flocalhost%2Fuin-prodi" =====================> "%2F%2Flocalhost%2Fuin-prodi4"
+	SEARCH 10:"https://localhost/uin-prodi4" ====================> "http://localhost/uin-prodi4"
+	SEARCH 11:"https:\/\/localhost\/uin-prodi4" =================> "http:\/\/localhost\/uin-prodi4"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Fuin-prodi4" ============> "http%3A%2F%2Flocalhost%2Fuin-prodi4"
+
+EVALUATE TABLE: "wp_actionscheduler_logs"_________________________[ROWS:     7][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  2:"G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  3:"G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  4:"G:\Programs\XAMPP php ver7.4\htdocs\uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  5:"G:\\Programs\\XAMPP php ver7.4\\htdocs\\uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  6:"G%3A%5CPrograms%5CXAMPP+php+ver7.4%5Chtdocs%5Cuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  7:"//localhost/uin-prodi" ===========================> "//localhost/uin-prodi4"
+	SEARCH  8:"\/\/localhost\/uin-prodi" ========================> "\/\/localhost\/uin-prodi4"
+	SEARCH  9:"%2F%2Flocalhost%2Fuin-prodi" =====================> "%2F%2Flocalhost%2Fuin-prodi4"
+	SEARCH 10:"https://localhost/uin-prodi4" ====================> "http://localhost/uin-prodi4"
+	SEARCH 11:"https:\/\/localhost\/uin-prodi4" =================> "http:\/\/localhost\/uin-prodi4"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Fuin-prodi4" ============> "http%3A%2F%2Flocalhost%2Fuin-prodi4"
+
+EVALUATE TABLE: "wp_addonlibrary_addons"__________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  2:"G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  3:"G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  4:"G:\Programs\XAMPP php ver7.4\htdocs\uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  5:"G:\\Programs\\XAMPP php ver7.4\\htdocs\\uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  6:"G%3A%5CPrograms%5CXAMPP+php+ver7.4%5Chtdocs%5Cuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  7:"//localhost/uin-prodi" ===========================> "//localhost/uin-prodi4"
+	SEARCH  8:"\/\/localhost\/uin-prodi" ========================> "\/\/localhost\/uin-prodi4"
+	SEARCH  9:"%2F%2Flocalhost%2Fuin-prodi" =====================> "%2F%2Flocalhost%2Fuin-prodi4"
+	SEARCH 10:"https://localhost/uin-prodi4" ====================> "http://localhost/uin-prodi4"
+	SEARCH 11:"https:\/\/localhost\/uin-prodi4" =================> "http:\/\/localhost\/uin-prodi4"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Fuin-prodi4" ============> "http%3A%2F%2Flocalhost%2Fuin-prodi4"
+
+EVALUATE TABLE: "wp_addonlibrary_categories"______________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  2:"G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  3:"G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  4:"G:\Programs\XAMPP php ver7.4\htdocs\uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  5:"G:\\Programs\\XAMPP php ver7.4\\htdocs\\uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  6:"G%3A%5CPrograms%5CXAMPP+php+ver7.4%5Chtdocs%5Cuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  7:"//localhost/uin-prodi" ===========================> "//localhost/uin-prodi4"
+	SEARCH  8:"\/\/localhost\/uin-prodi" ========================> "\/\/localhost\/uin-prodi4"
+	SEARCH  9:"%2F%2Flocalhost%2Fuin-prodi" =====================> "%2F%2Flocalhost%2Fuin-prodi4"
+	SEARCH 10:"https://localhost/uin-prodi4" ====================> "http://localhost/uin-prodi4"
+	SEARCH 11:"https:\/\/localhost\/uin-prodi4" =================> "http:\/\/localhost\/uin-prodi4"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Fuin-prodi4" ============> "http%3A%2F%2Flocalhost%2Fuin-prodi4"
+
+EVALUATE TABLE: "wp_alm"__________________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  2:"G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  3:"G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  4:"G:\Programs\XAMPP php ver7.4\htdocs\uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  5:"G:\\Programs\\XAMPP php ver7.4\\htdocs\\uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  6:"G%3A%5CPrograms%5CXAMPP+php+ver7.4%5Chtdocs%5Cuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  7:"//localhost/uin-prodi" ===========================> "//localhost/uin-prodi4"
+	SEARCH  8:"\/\/localhost\/uin-prodi" ========================> "\/\/localhost\/uin-prodi4"
+	SEARCH  9:"%2F%2Flocalhost%2Fuin-prodi" =====================> "%2F%2Flocalhost%2Fuin-prodi4"
+	SEARCH 10:"https://localhost/uin-prodi4" ====================> "http://localhost/uin-prodi4"
+	SEARCH 11:"https:\/\/localhost\/uin-prodi4" =================> "http:\/\/localhost\/uin-prodi4"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Fuin-prodi4" ============> "http%3A%2F%2Flocalhost%2Fuin-prodi4"
+
+EVALUATE TABLE: "wp_alm_unlimited"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_duplicator_packages"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_e_submissions"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_e_submissions_actions_log"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_e_submissions_values"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mec_attendees"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mec_bookings"_________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mec_dates"____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mec_events"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mec_occurrences"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mec_users"____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:   681][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  2:"G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  3:"G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  4:"G:\Programs\XAMPP php ver7.4\htdocs\uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  5:"G:\\Programs\\XAMPP php ver7.4\\htdocs\\uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  6:"G%3A%5CPrograms%5CXAMPP+php+ver7.4%5Chtdocs%5Cuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  7:"//localhost/uin-prodi" ===========================> "//localhost/uin-prodi4"
+	SEARCH  8:"\/\/localhost\/uin-prodi" ========================> "\/\/localhost\/uin-prodi4"
+	SEARCH  9:"%2F%2Flocalhost%2Fuin-prodi" =====================> "%2F%2Flocalhost%2Fuin-prodi4"
+	SEARCH 10:"https://localhost/uin-prodi4" ====================> "http://localhost/uin-prodi4"
+	SEARCH 11:"https:\/\/localhost\/uin-prodi4" =================> "http:\/\/localhost\/uin-prodi4"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Fuin-prodi4" ============> "http%3A%2F%2Flocalhost%2Fuin-prodi4"
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS:  9949][PG:   3][SCAN:text columns]
+	SEARCH  1:"G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  2:"G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  3:"G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  4:"G:\Programs\XAMPP php ver7.4\htdocs\uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  5:"G:\\Programs\\XAMPP php ver7.4\\htdocs\\uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  6:"G%3A%5CPrograms%5CXAMPP+php+ver7.4%5Chtdocs%5Cuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  7:"//localhost/uin-prodi" ===========================> "//localhost/uin-prodi4"
+	SEARCH  8:"\/\/localhost\/uin-prodi" ========================> "\/\/localhost\/uin-prodi4"
+	SEARCH  9:"%2F%2Flocalhost%2Fuin-prodi" =====================> "%2F%2Flocalhost%2Fuin-prodi4"
+	SEARCH 10:"https://localhost/uin-prodi4" ====================> "http://localhost/uin-prodi4"
+	SEARCH 11:"https:\/\/localhost\/uin-prodi4" =================> "http:\/\/localhost\/uin-prodi4"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Fuin-prodi4" ============> "http%3A%2F%2Flocalhost%2Fuin-prodi4"
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS:  1462][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  2:"G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  3:"G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  4:"G:\Programs\XAMPP php ver7.4\htdocs\uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  5:"G:\\Programs\\XAMPP php ver7.4\\htdocs\\uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  6:"G%3A%5CPrograms%5CXAMPP+php+ver7.4%5Chtdocs%5Cuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  7:"//localhost/uin-prodi" ===========================> "//localhost/uin-prodi4"
+	SEARCH  8:"\/\/localhost\/uin-prodi" ========================> "\/\/localhost\/uin-prodi4"
+	SEARCH  9:"%2F%2Flocalhost%2Fuin-prodi" =====================> "%2F%2Flocalhost%2Fuin-prodi4"
+	SEARCH 10:"https://localhost/uin-prodi4" ====================> "http://localhost/uin-prodi4"
+	SEARCH 11:"https:\/\/localhost\/uin-prodi4" =================> "http:\/\/localhost\/uin-prodi4"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Fuin-prodi4" ============> "http%3A%2F%2Flocalhost%2Fuin-prodi4"
+
+EVALUATE TABLE: "wp_revslider_css"________________________________[ROWS:   134][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  2:"G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  3:"G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  4:"G:\Programs\XAMPP php ver7.4\htdocs\uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  5:"G:\\Programs\\XAMPP php ver7.4\\htdocs\\uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  6:"G%3A%5CPrograms%5CXAMPP+php+ver7.4%5Chtdocs%5Cuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  7:"//localhost/uin-prodi" ===========================> "//localhost/uin-prodi4"
+	SEARCH  8:"\/\/localhost\/uin-prodi" ========================> "\/\/localhost\/uin-prodi4"
+	SEARCH  9:"%2F%2Flocalhost%2Fuin-prodi" =====================> "%2F%2Flocalhost%2Fuin-prodi4"
+	SEARCH 10:"https://localhost/uin-prodi4" ====================> "http://localhost/uin-prodi4"
+	SEARCH 11:"https:\/\/localhost\/uin-prodi4" =================> "http:\/\/localhost\/uin-prodi4"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Fuin-prodi4" ============> "http%3A%2F%2Flocalhost%2Fuin-prodi4"
+
+EVALUATE TABLE: "wp_revslider_css_bkp"____________________________[ROWS:    47][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  2:"G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  3:"G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  4:"G:\Programs\XAMPP php ver7.4\htdocs\uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  5:"G:\\Programs\\XAMPP php ver7.4\\htdocs\\uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  6:"G%3A%5CPrograms%5CXAMPP+php+ver7.4%5Chtdocs%5Cuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  7:"//localhost/uin-prodi" ===========================> "//localhost/uin-prodi4"
+	SEARCH  8:"\/\/localhost\/uin-prodi" ========================> "\/\/localhost\/uin-prodi4"
+	SEARCH  9:"%2F%2Flocalhost%2Fuin-prodi" =====================> "%2F%2Flocalhost%2Fuin-prodi4"
+	SEARCH 10:"https://localhost/uin-prodi4" ====================> "http://localhost/uin-prodi4"
+	SEARCH 11:"https:\/\/localhost\/uin-prodi4" =================> "http:\/\/localhost\/uin-prodi4"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Fuin-prodi4" ============> "http%3A%2F%2Flocalhost%2Fuin-prodi4"
+
+EVALUATE TABLE: "wp_revslider_layer_animations"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_layer_animations_bkp"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_navigations"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_navigations_bkp"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_sliders"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_sliders_bkp"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_slides"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_slides_bkp"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_static_slides"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_static_slides_bkp"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_sbi_instagram_feed_locator"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_sbi_instagram_feeds_posts"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_sbi_instagram_posts"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_spectrom_sync"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_spectrom_sync_log"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_spectrom_sync_sources"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS:    53][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  2:"G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  3:"G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  4:"G:\Programs\XAMPP php ver7.4\htdocs\uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  5:"G:\\Programs\\XAMPP php ver7.4\\htdocs\\uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  6:"G%3A%5CPrograms%5CXAMPP+php+ver7.4%5Chtdocs%5Cuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  7:"//localhost/uin-prodi" ===========================> "//localhost/uin-prodi4"
+	SEARCH  8:"\/\/localhost\/uin-prodi" ========================> "\/\/localhost\/uin-prodi4"
+	SEARCH  9:"%2F%2Flocalhost%2Fuin-prodi" =====================> "%2F%2Flocalhost%2Fuin-prodi4"
+	SEARCH 10:"https://localhost/uin-prodi4" ====================> "http://localhost/uin-prodi4"
+	SEARCH 11:"https:\/\/localhost\/uin-prodi4" =================> "http:\/\/localhost\/uin-prodi4"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Fuin-prodi4" ============> "http%3A%2F%2Flocalhost%2Fuin-prodi4"
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:    31][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  2:"G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  3:"G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  4:"G:\Programs\XAMPP php ver7.4\htdocs\uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  5:"G:\\Programs\\XAMPP php ver7.4\\htdocs\\uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  6:"G%3A%5CPrograms%5CXAMPP+php+ver7.4%5Chtdocs%5Cuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  7:"//localhost/uin-prodi" ===========================> "//localhost/uin-prodi4"
+	SEARCH  8:"\/\/localhost\/uin-prodi" ========================> "\/\/localhost\/uin-prodi4"
+	SEARCH  9:"%2F%2Flocalhost%2Fuin-prodi" =====================> "%2F%2Flocalhost%2Fuin-prodi4"
+	SEARCH 10:"https://localhost/uin-prodi4" ====================> "http://localhost/uin-prodi4"
+	SEARCH 11:"https:\/\/localhost\/uin-prodi4" =================> "http:\/\/localhost\/uin-prodi4"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Fuin-prodi4" ============> "http%3A%2F%2Flocalhost%2Fuin-prodi4"
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:     6][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  2:"G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  3:"G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  4:"G:\Programs\XAMPP php ver7.4\htdocs\uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  5:"G:\\Programs\\XAMPP php ver7.4\\htdocs\\uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  6:"G%3A%5CPrograms%5CXAMPP+php+ver7.4%5Chtdocs%5Cuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  7:"//localhost/uin-prodi" ===========================> "//localhost/uin-prodi4"
+	SEARCH  8:"\/\/localhost\/uin-prodi" ========================> "\/\/localhost\/uin-prodi4"
+	SEARCH  9:"%2F%2Flocalhost%2Fuin-prodi" =====================> "%2F%2Flocalhost%2Fuin-prodi4"
+	SEARCH 10:"https://localhost/uin-prodi4" ====================> "http://localhost/uin-prodi4"
+	SEARCH 11:"https:\/\/localhost\/uin-prodi4" =================> "http:\/\/localhost\/uin-prodi4"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Fuin-prodi4" ============> "http%3A%2F%2Flocalhost%2Fuin-prodi4"
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:    31][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  2:"G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  3:"G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  4:"G:\Programs\XAMPP php ver7.4\htdocs\uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  5:"G:\\Programs\\XAMPP php ver7.4\\htdocs\\uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  6:"G%3A%5CPrograms%5CXAMPP+php+ver7.4%5Chtdocs%5Cuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  7:"//localhost/uin-prodi" ===========================> "//localhost/uin-prodi4"
+	SEARCH  8:"\/\/localhost\/uin-prodi" ========================> "\/\/localhost\/uin-prodi4"
+	SEARCH  9:"%2F%2Flocalhost%2Fuin-prodi" =====================> "%2F%2Flocalhost%2Fuin-prodi4"
+	SEARCH 10:"https://localhost/uin-prodi4" ====================> "http://localhost/uin-prodi4"
+	SEARCH 11:"https:\/\/localhost\/uin-prodi4" =================> "http:\/\/localhost\/uin-prodi4"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Fuin-prodi4" ============> "http%3A%2F%2Flocalhost%2Fuin-prodi4"
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:    46][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  2:"G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  3:"G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  4:"G:\Programs\XAMPP php ver7.4\htdocs\uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  5:"G:\\Programs\\XAMPP php ver7.4\\htdocs\\uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  6:"G%3A%5CPrograms%5CXAMPP+php+ver7.4%5Chtdocs%5Cuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  7:"//localhost/uin-prodi" ===========================> "//localhost/uin-prodi4"
+	SEARCH  8:"\/\/localhost\/uin-prodi" ========================> "\/\/localhost\/uin-prodi4"
+	SEARCH  9:"%2F%2Flocalhost%2Fuin-prodi" =====================> "%2F%2Flocalhost%2Fuin-prodi4"
+	SEARCH 10:"https://localhost/uin-prodi4" ====================> "http://localhost/uin-prodi4"
+	SEARCH 11:"https:\/\/localhost\/uin-prodi4" =================> "http:\/\/localhost\/uin-prodi4"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Fuin-prodi4" ============> "http%3A%2F%2Flocalhost%2Fuin-prodi4"
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  2:"G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  3:"G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  4:"G:\Programs\XAMPP php ver7.4\htdocs\uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  5:"G:\\Programs\\XAMPP php ver7.4\\htdocs\\uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  6:"G%3A%5CPrograms%5CXAMPP+php+ver7.4%5Chtdocs%5Cuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  7:"//localhost/uin-prodi" ===========================> "//localhost/uin-prodi4"
+	SEARCH  8:"\/\/localhost\/uin-prodi" ========================> "\/\/localhost\/uin-prodi4"
+	SEARCH  9:"%2F%2Flocalhost%2Fuin-prodi" =====================> "%2F%2Flocalhost%2Fuin-prodi4"
+	SEARCH 10:"https://localhost/uin-prodi4" ====================> "http://localhost/uin-prodi4"
+	SEARCH 11:"https:\/\/localhost\/uin-prodi4" =================> "http:\/\/localhost\/uin-prodi4"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Fuin-prodi4" ============> "http%3A%2F%2Flocalhost%2Fuin-prodi4"
+
+EVALUATE TABLE: "wp_wc_admin_note_actions"________________________[ROWS:    29][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  2:"G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  3:"G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  4:"G:\Programs\XAMPP php ver7.4\htdocs\uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  5:"G:\\Programs\\XAMPP php ver7.4\\htdocs\\uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  6:"G%3A%5CPrograms%5CXAMPP+php+ver7.4%5Chtdocs%5Cuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  7:"//localhost/uin-prodi" ===========================> "//localhost/uin-prodi4"
+	SEARCH  8:"\/\/localhost\/uin-prodi" ========================> "\/\/localhost\/uin-prodi4"
+	SEARCH  9:"%2F%2Flocalhost%2Fuin-prodi" =====================> "%2F%2Flocalhost%2Fuin-prodi4"
+	SEARCH 10:"https://localhost/uin-prodi4" ====================> "http://localhost/uin-prodi4"
+	SEARCH 11:"https:\/\/localhost\/uin-prodi4" =================> "http:\/\/localhost\/uin-prodi4"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Fuin-prodi4" ============> "http%3A%2F%2Flocalhost%2Fuin-prodi4"
+
+EVALUATE TABLE: "wp_wc_admin_notes"_______________________________[ROWS:    30][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  2:"G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  3:"G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  4:"G:\Programs\XAMPP php ver7.4\htdocs\uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  5:"G:\\Programs\\XAMPP php ver7.4\\htdocs\\uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  6:"G%3A%5CPrograms%5CXAMPP+php+ver7.4%5Chtdocs%5Cuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  7:"//localhost/uin-prodi" ===========================> "//localhost/uin-prodi4"
+	SEARCH  8:"\/\/localhost\/uin-prodi" ========================> "\/\/localhost\/uin-prodi4"
+	SEARCH  9:"%2F%2Flocalhost%2Fuin-prodi" =====================> "%2F%2Flocalhost%2Fuin-prodi4"
+	SEARCH 10:"https://localhost/uin-prodi4" ====================> "http://localhost/uin-prodi4"
+	SEARCH 11:"https:\/\/localhost\/uin-prodi4" =================> "http:\/\/localhost\/uin-prodi4"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Fuin-prodi4" ============> "http%3A%2F%2Flocalhost%2Fuin-prodi4"
+
+EVALUATE TABLE: "wp_wc_category_lookup"___________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  2:"G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  3:"G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  4:"G:\Programs\XAMPP php ver7.4\htdocs\uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  5:"G:\\Programs\\XAMPP php ver7.4\\htdocs\\uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  6:"G%3A%5CPrograms%5CXAMPP+php+ver7.4%5Chtdocs%5Cuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  7:"//localhost/uin-prodi" ===========================> "//localhost/uin-prodi4"
+	SEARCH  8:"\/\/localhost\/uin-prodi" ========================> "\/\/localhost\/uin-prodi4"
+	SEARCH  9:"%2F%2Flocalhost%2Fuin-prodi" =====================> "%2F%2Flocalhost%2Fuin-prodi4"
+	SEARCH 10:"https://localhost/uin-prodi4" ====================> "http://localhost/uin-prodi4"
+	SEARCH 11:"https:\/\/localhost\/uin-prodi4" =================> "http:\/\/localhost\/uin-prodi4"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Fuin-prodi4" ============> "http%3A%2F%2Flocalhost%2Fuin-prodi4"
+
+EVALUATE TABLE: "wp_wc_customer_lookup"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_download_log"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_coupon_lookup"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_product_lookup"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_stats"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_tax_lookup"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_product_meta_lookup"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_reserved_stock"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_tax_rate_classes"__________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  2:"G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  3:"G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  4:"G:\Programs\XAMPP php ver7.4\htdocs\uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  5:"G:\\Programs\\XAMPP php ver7.4\\htdocs\\uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  6:"G%3A%5CPrograms%5CXAMPP+php+ver7.4%5Chtdocs%5Cuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  7:"//localhost/uin-prodi" ===========================> "//localhost/uin-prodi4"
+	SEARCH  8:"\/\/localhost\/uin-prodi" ========================> "\/\/localhost\/uin-prodi4"
+	SEARCH  9:"%2F%2Flocalhost%2Fuin-prodi" =====================> "%2F%2Flocalhost%2Fuin-prodi4"
+	SEARCH 10:"https://localhost/uin-prodi4" ====================> "http://localhost/uin-prodi4"
+	SEARCH 11:"https:\/\/localhost\/uin-prodi4" =================> "http:\/\/localhost\/uin-prodi4"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Fuin-prodi4" ============> "http%3A%2F%2Flocalhost%2Fuin-prodi4"
+
+EVALUATE TABLE: "wp_wc_webhooks"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_api_keys"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_attribute_taxonomies"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_downloadable_product_permissions"_[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_log"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_order_itemmeta"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_order_items"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_payment_tokenmeta"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_payment_tokens"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_sessions"_________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  2:"G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  3:"G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  4:"G:\Programs\XAMPP php ver7.4\htdocs\uin-prodi" ===> "G:/Programs/XAMPP php ver7.4/htdocs/uin-prodi4"
+	SEARCH  5:"G:\\Programs\\XAMPP php ver7.4\\htdocs\\uin-prodi" => "G:\/Programs\/XAMPP php ver7.4\/htdocs\/uin-prodi4"
+	SEARCH  6:"G%3A%5CPrograms%5CXAMPP+php+ver7.4%5Chtdocs%5Cuin-prodi" => "G%3A%2FPrograms%2FXAMPP+php+ver7.4%2Fhtdocs%2Fuin-prodi4"
+	SEARCH  7:"//localhost/uin-prodi" ===========================> "//localhost/uin-prodi4"
+	SEARCH  8:"\/\/localhost\/uin-prodi" ========================> "\/\/localhost\/uin-prodi4"
+	SEARCH  9:"%2F%2Flocalhost%2Fuin-prodi" =====================> "%2F%2Flocalhost%2Fuin-prodi4"
+	SEARCH 10:"https://localhost/uin-prodi4" ====================> "http://localhost/uin-prodi4"
+	SEARCH 11:"https:\/\/localhost\/uin-prodi4" =================> "http:\/\/localhost\/uin-prodi4"
+	SEARCH 12:"https%3A%2F%2Flocalhost%2Fuin-prodi4" ============> "http%3A%2F%2Flocalhost%2Fuin-prodi4"
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zone_locations"__________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zone_methods"____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zones"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_tax_rate_locations"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_tax_rates"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+--------------------------------------
+SCANNED:	Tables:75 	|	 Rows:12518 	|	 Cells:78803 
+UPDATED:	Tables:5 	|	 Rows:2471 	|	 Cells:3312 
+ERRORS:		0 
+RUNTIME:	38.794600 sec
+
+====================================
+REMOVE LICENSE KEY
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME "** OBSCURED **"
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	REMOVE WPCACHEHOME
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE MODE: "NEW"
+====================================
+- PASS: Successfully created a new .htaccess file.
+- PASS: Existing Apache '.htaccess__[HASH]' was removed
+
+====================================
+GENERAL UPDATES & CLEANUP
+====================================
+
+====================================
+DEACTIVATE PLUGINS CHECK
+====================================
+Deactivated plugins list here: Array
+(
+    [0] => really-simple-ssl/rlrsssl-really-simple-ssl.php
+    [1] => simple-google-recaptcha/simple-google-recaptcha.php
+    [2] => js_composer/js_composer.php
+)
+
+MAINTENANCE MODE DISABLE
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+
+====================================
+CLEANUP TMP FILES
+====================================
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 04:03:46 - RUNTIME: 39.5922 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[INFO] No general notices
+	SECTIONS: general
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+====================================

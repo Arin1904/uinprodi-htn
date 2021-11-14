@@ -1,0 +1,1029 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: UVO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-30 13:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: uvo"
+
+#. used between list items, there is a space after the comma
+#: inc/single/single-default.php:55
+msgid " / About Author"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/install-plugins.php:18
+#: inc/radiantthemes-dashboard/welcome.php:16
+msgid " is now installed and ready to use!"
+msgstr ""
+
+#. 1: date, 2: time
+#: inc/template-functions.php:137
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:34
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/template-tags.php:424
+#, php-format
+msgid "%s has been added to your cart."
+msgid_plural "%s have been added to your cart."
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#. %s location.
+#: woocommerce/cart/cart-totals.php:72
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/welcome.php:156
+msgid "(min:1000)"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/welcome.php:145
+msgid "(min:2000)"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/welcome.php:99
+msgid "(min:256M)"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/welcome.php:133
+msgid "(min:300)"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/welcome.php:110
+#: inc/radiantthemes-dashboard/welcome.php:121
+msgid "(min:64M)"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:332
+msgid ", "
+msgstr ""
+
+#: 404.php:24
+msgid "404"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/install-plugins.php:37
+msgid "Activate all plugins"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/install-plugins.php:56
+msgid "Activated"
+msgstr ""
+
+#: inc/redux-framework/extensions/slides/slides/field_slides.php:202
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:75
+msgid "Add a review"
+msgstr ""
+
+#: functions.php:386
+msgid ""
+"Add widgets for \"Hamburger\" menu from here. To turn it on/off please "
+"navigate to \"Theme Options > Header\" and select \"Hamburger\" for "
+"respetive header styles."
+msgstr ""
+
+#: functions.php:340 functions.php:354 functions.php:371
+msgid "Add widgets here."
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:57
+msgid "Additional information"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:80
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:86
+msgid "Advanced Custom Fields: Typography Field"
+msgstr ""
+
+#. Author Name.
+#: inc/header/banner.php:841 inc/header/theme-banner.php:773
+#: inc/header/banner-default.php:273
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: functions.php:1584
+msgid "Archive by category \""
+msgstr ""
+
+#: inc/header/banner.php:892 inc/header/theme-banner.php:824
+#: inc/header/banner-default.php:324
+msgid "Archives"
+msgstr ""
+
+#: functions.php:1665
+msgid "Articles posted by "
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+msgid "Average"
+msgstr ""
+
+#: 404.php:41
+msgid "Back To Home"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:28
+msgid "Billing details"
+msgstr ""
+
+#: inc/header/banner-default.php:104
+msgid "Blog"
+msgstr ""
+
+#. Name of the template
+msgid "Blog No Sidebar"
+msgstr ""
+
+#: inc/redux-framework/extensions/box_shadow/box_shadow/field_box_shadow.php:265
+msgid "Blur"
+msgstr ""
+
+#: inc/redux-framework/extensions/box_shadow/box_shadow/field_box_shadow.php:263
+msgid "Blur Radius"
+msgstr ""
+
+#: functions.php:1569
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: inc/redux-framework/extensions/upload/upload/field_upload.php:113
+msgid "Browse"
+msgstr ""
+
+#: inc/redux-framework/extensions/slides/slides/field_slides.php:133
+#: inc/redux-framework/extensions/slides/slides/field_slides.php:184
+msgid "Button Title"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:323 template-parts/content-three.php:53
+#: template-parts/content-blog-two.php:16 template-parts/content-four.php:37
+#: template-parts/content-blog-three.php:33
+#: template-parts/content-masonry.php:6
+#: template-parts/content-blog-seven.php:19
+#: template-parts/content-blog-six.php:50
+#: template-parts/content-blog-four.php:38 template-parts/content-list.php:50
+msgid "By"
+msgstr ""
+
+#: template-parts/content-two.php:73
+msgid "by"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:25
+msgid "Cart totals"
+msgstr ""
+
+#. category name.
+#: inc/header/banner.php:823 inc/header/theme-banner.php:755
+#: inc/header/banner-default.php:255
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:46
+msgid "CF7 Widget Elementor"
+msgstr ""
+
+#: inc/redux-framework/extensions/upload/upload/field_upload.php:113
+msgid "Choose a File"
+msgstr ""
+
+#. Name of the template
+msgid "Clasic Blog Style"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/install-plugins.php:72
+msgid "Click Here to continue with Demo Import process."
+msgstr ""
+
+#: template-parts/content-default.php:53
+msgid "Comments"
+msgstr ""
+
+#: comments.php:107
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:42
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Name of the template
+msgid "Common Page without Title"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:40
+msgid "Contact Form 7"
+msgstr ""
+
+#: template-parts/team-single-one.php:34
+msgid "Contact Info"
+msgstr ""
+
+#. %s: Name of current post.
+#: template-parts/content-single.php:33
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:430
+msgid "Continue Shopping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:53
+msgid "Create an account?"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/welcome.php:98
+#: inc/radiantthemes-dashboard/welcome.php:101
+#: inc/radiantthemes-dashboard/welcome.php:109
+#: inc/radiantthemes-dashboard/welcome.php:112
+#: inc/radiantthemes-dashboard/welcome.php:120
+#: inc/radiantthemes-dashboard/welcome.php:123
+#: inc/radiantthemes-dashboard/welcome.php:135
+#: inc/radiantthemes-dashboard/welcome.php:144
+#: inc/radiantthemes-dashboard/welcome.php:147
+#: inc/radiantthemes-dashboard/welcome.php:155
+#: inc/radiantthemes-dashboard/welcome.php:158
+msgid "Currently:"
+msgstr ""
+
+#: functions.php:1950
+msgid "Custom Fonts"
+msgstr ""
+
+#. Date.
+#: inc/header/banner.php:876 inc/header/theme-banner.php:808
+#: inc/header/banner-default.php:308
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/install-plugins.php:22
+#: inc/radiantthemes-dashboard/welcome.php:20
+msgid "Dashboard"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:93
+msgid "Date Time Picker Field"
+msgstr ""
+
+#: inc/redux-framework/extensions/slides/slides/field_slides.php:148
+#: inc/redux-framework/extensions/slides/slides/field_slides.php:199
+msgid "Delete"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/install-plugins.php:25
+#: inc/radiantthemes-dashboard/welcome.php:23
+msgid "Demo Importer"
+msgstr ""
+
+#: inc/redux-framework/extensions/slides/slides/field_slides.php:125
+#: inc/redux-framework/extensions/slides/slides/field_slides.php:176
+msgid "Description"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/welcome.php:66
+msgid "DOCUMENTATION"
+msgstr ""
+
+#: inc/template-functions.php:140
+msgid "Edit"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:34
+msgid "Elementor"
+msgstr ""
+
+#: functions.php:2785 woocommerce/single-product-reviews.php:116
+msgid "Email"
+msgstr ""
+
+#: functions.php:1667
+msgid "Error 404"
+msgstr ""
+
+#: inc/header/banner.php:652 inc/header/theme-banner.php:592
+msgid "Events"
+msgstr ""
+
+#: inc/redux-framework/extensions/slides/slides/field_slides.php:105
+#: inc/redux-framework/extensions/slides/slides/field_slides.php:158
+#: inc/redux-framework/extensions/slides/slides/field_slides.php:158
+msgid "external"
+msgstr ""
+
+#: functions.php:369
+msgid "Footer | #"
+msgstr ""
+
+#: inc/footer/footer-style-default.php:26
+msgid "for Themeforest."
+msgstr ""
+
+#: inc/header/theme-banner.php:67 inc/header/banner-default.php:60
+msgid "Front Page"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:100
+msgid "Good"
+msgstr ""
+
+#: functions.php:265 functions.php:512
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:384
+msgid "Hamburger | Sidebar"
+msgstr ""
+
+#: functions.php:1538 functions.php:1549 functions.php:1576
+msgid "Home"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://radiantthemes.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://uvo.radiantthemes.com/"
+msgstr ""
+
+#: inc/template-tags.php:335 template-parts/content-three.php:36
+#: template-parts/content-blog-three.php:36
+#: template-parts/content-blog-six.php:36 template-parts/content-list.php:36
+msgid "In"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/install-plugins.php:23
+#: inc/radiantthemes-dashboard/welcome.php:21
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/template-tags.php:418
+#, php-format
+msgctxt "Item name in quotes"
+msgid "&ldquo;%s&rdquo;"
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:77
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/blog/blog-two.php:32 inc/blog/blog-two.php:34 inc/blog/blog-four.php:58
+#: inc/blog/blog-four.php:60 inc/blog/blog-one.php:83 inc/blog/blog-one.php:85
+#: inc/blog/blog-three.php:61 inc/blog/blog-three.php:63
+#: inc/blog/blog-five.php:51 inc/blog/blog-five.php:53 inc/blog/blog-six.php:58
+#: inc/blog/blog-six.php:60 inc/blog/blog-seven.php:36
+#: inc/blog/blog-seven.php:38 inc/category/blog-two.php:57
+#: inc/category/blog-four.php:60 inc/category/blog-one.php:83
+#: inc/category/blog-three.php:59 inc/category/blog-five.php:54
+#: inc/category/blog-six.php:60
+msgid "Load More"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:99
+msgid "Mailchimp for WordPress"
+msgstr ""
+
+#: template-parts/team-single-one.php:38
+msgid "Make a Call"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/welcome.php:127
+msgid "Max. Execution Time"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/welcome.php:116
+msgid "Max. Post Size"
+msgstr ""
+
+#: inc/header/banner.php:883 inc/header/theme-banner.php:815
+#: inc/header/banner-default.php:315
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#. Month and Date.
+#: inc/header/banner.php:882 inc/header/theme-banner.php:814
+#: inc/header/banner-default.php:314
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: functions.php:2782 woocommerce/single-product-reviews.php:110
+msgid "Name"
+msgstr ""
+
+#: inc/redux-framework/extensions/slides/slides/field_slides.php:69
+#: inc/redux-framework/extensions/slides/slides/field_slides.php:154
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: comments.php:60 comments.php:92
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/single/single-two.php:195
+msgid "Newer Post"
+msgstr ""
+
+#: single-portfolio.php:47 inc/single/single-one.php:186
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/content-three.php:16 template-parts/content-blog-three.php:16
+#: template-parts/content-blog-six.php:16 template-parts/content.php:28
+#: template-parts/content-list.php:16
+msgid "No Image Found"
+msgstr ""
+
+#: inc/blog/blog-two.php:36 inc/blog/blog-four.php:62 inc/blog/blog-one.php:87
+#: inc/blog/blog-three.php:65 inc/blog/blog-five.php:55
+#: inc/blog/blog-six.php:62 inc/blog/blog-seven.php:40
+msgid "No more post to display."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:102
+msgid "Not that bad"
+msgstr ""
+
+#: inc/redux-framework/extensions/box_shadow/box_shadow/field_box_shadow.php:227
+msgid "Offset X"
+msgstr ""
+
+#: inc/redux-framework/extensions/box_shadow/box_shadow/field_box_shadow.php:245
+msgid "Offset Y"
+msgstr ""
+
+#: comments.php:57 comments.php:89
+msgid "Older Comments"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/single/single-two.php:177
+msgid "Older Post"
+msgstr ""
+
+#. 1: title.
+#: comments.php:36
+msgid "One Comment"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:143
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: 404.php:40
+msgid ""
+"Oops! It could be you or us, there is no page here. It might have been moved "
+"or deleted."
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Oops! Nothing Found"
+msgstr ""
+
+#: inc/redux-framework/extensions/box_shadow/box_shadow/field_box_shadow.php:302
+msgid "Opacity"
+msgstr ""
+
+#: inc/redux-framework/extensions/box_shadow/box_shadow/field_box_shadow.php:300
+msgid "Opacity .1 - 1"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/welcome.php:78
+msgid "OPEN SUPPORT TICKET"
+msgstr ""
+
+#: functions.php:2818
+msgid "out of 5"
+msgstr ""
+
+#: functions.php:1674
+msgid "Page"
+msgstr ""
+
+#: inc/template-functions.php:64
+msgid "Page Not Found"
+msgstr ""
+
+#: page-templates/common-page.php:23 template-parts/content-page.php:27
+#: template-parts/content-single.php:45
+msgid "Pages:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Perfect"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/welcome.php:151
+msgid "PHP Max. Input Time"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/welcome.php:139
+msgid "PHP Max. Input Vars"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Barlow Semi Condensed, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:472
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:301
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: functions.php:1661
+msgid "Posts tagged \""
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/single/single-one.php:164
+msgid "Prev Post"
+msgstr ""
+
+#: single-portfolio.php:30
+msgid "Previous Post"
+msgstr ""
+
+#: functions.php:91
+msgid "Primary"
+msgstr ""
+
+#: functions.php:2735
+msgid "Product Price"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: functions.php:352
+msgid "Product | Sidebar"
+msgstr ""
+
+#: inc/single/single-two.php:69 inc/single/single-one.php:54
+msgid "Published By:"
+msgstr ""
+
+#: inc/single/single-two.php:83 inc/single/single-one.php:69
+msgid "Published In:"
+msgstr ""
+
+#: template-parts/content-three.php:33 template-parts/content-blog-six.php:33
+#: template-parts/content-list.php:33
+msgid "Published On"
+msgstr ""
+
+#: inc/single/single-two.php:76 inc/single/single-one.php:61
+msgid "Published On:"
+msgstr ""
+
+#: template-parts/team-single-one.php:30
+msgid "Qualification"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#. Author of the theme
+msgid "RadiantThemes"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/rt-admin.php:48
+#: inc/radiantthemes-dashboard/rt-admin.php:158
+msgid "radiantthemes"
+msgstr ""
+
+#: inc/footer/footer-style-default.php:26
+msgid "RadiantThemes "
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:60
+msgid "RadiantThemes Addons"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:52
+msgid "RadiantThemes Custom Post Type"
+msgstr ""
+
+#: functions.php:1805 functions.php:1806
+msgid "RadiantThemes Dashboard"
+msgstr ""
+
+#: functions.php:1833 functions.php:1834
+msgid "Radiantthemes Install Plugins"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Rate&hellip;"
+msgstr ""
+
+#: template-parts/content-blog-seven.php:22 template-parts/content-two.php:98
+msgid "Read More"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:28
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/single/single-two.php:261 inc/single/single-one.php:252
+msgid "Related Articles"
+msgstr ""
+
+#: inc/redux-framework/extensions/slides/slides/field_slides.php:114
+#: inc/redux-framework/extensions/slides/slides/field_slides.php:165
+msgid "Remove"
+msgstr ""
+
+#: inc/redux-framework/extensions/upload/upload/field_upload.php:114
+msgid "Remove Upload"
+msgstr ""
+
+#: inc/template-functions.php:151
+msgid "Reply"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Rubik, translate this to 'off'. Do not translate
+#. into your own language.
+#. If there are characters in your language that are not
+#. supported by Bebas Neue, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:174 functions.php:465
+msgctxt "Rubik font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/template-tags.php:396 inc/header/banner.php:1009
+#: inc/header/theme-banner.php:941 inc/header/banner-default.php:401
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-none.php:22
+msgid "Search Here..."
+msgstr ""
+
+#: functions.php:1586
+msgid "Search results for \""
+msgstr ""
+
+#: inc/template-tags.php:394
+msgid "Search Site"
+msgstr ""
+
+#: inc/redux-framework/extensions/upload/upload/field_upload.php:113
+msgid "Select File"
+msgstr ""
+
+#: template-parts/team-single-one.php:41
+msgid "Send an Email"
+msgstr ""
+
+#: inc/redux-framework/extensions/box_shadow/box_shadow/field_box_shadow.php:343
+#: inc/redux-framework/extensions/box_shadow/box_shadow/field_box_shadow.php:345
+msgid "Shadow Color"
+msgstr ""
+
+#: inc/redux-framework/extensions/box_shadow/box_shadow/field_box_shadow.php:387
+msgid "Shadow Preview"
+msgstr ""
+
+#: inc/redux-framework/extensions/box_shadow/box_shadow/field_box_shadow.php:363
+#: inc/redux-framework/extensions/box_shadow/box_shadow/field_box_shadow.php:364
+#: inc/redux-framework/extensions/box_shadow/box_shadow/field_box_shadow.php:365
+msgid "Shadow Type"
+msgstr ""
+
+#: template-parts/content-five.php:33
+#: woocommerce/shop-details-box/shop-details-box-style-three.php:34
+msgid "Share :"
+msgstr ""
+
+#: template-parts/content-five.php:34
+#: woocommerce/shop-details-box/shop-details-box-style-three.php:35
+msgid "Share on Facebook"
+msgstr ""
+
+#: template-parts/content-five.php:35
+msgid "Share on Google+"
+msgstr ""
+
+#: template-parts/content-five.php:37
+#: woocommerce/shop-details-box/shop-details-box-style-three.php:37
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: template-parts/content-five.php:36
+#: woocommerce/shop-details-box/shop-details-box-style-three.php:36
+msgid "Share on Twitter"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:52 woocommerce/cart/cart-totals.php:53
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Shop order"
+msgstr ""
+
+#: functions.php:338
+msgid "Sidebar"
+msgstr ""
+
+#: inc/redux-framework/extensions/slides/slides/field_slides.php:66
+msgid "Slide"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:111
+msgid "Slider Revolution"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:105
+msgid "Smash Balloon Instagram Feed"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid ""
+"Sorry! but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/redux-framework/extensions/box_shadow/box_shadow/field_box_shadow.php:283
+msgid "Spread"
+msgstr ""
+
+#: inc/redux-framework/extensions/box_shadow/box_shadow/field_box_shadow.php:281
+msgid "Spread Radius"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:30 woocommerce/cart/cart-totals.php:31
+msgid "Subtotal"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/welcome.php:88
+msgid "System Status"
+msgstr ""
+
+#. Tag Name.
+#: inc/header/banner.php:857 inc/header/theme-banner.php:789
+#: inc/header/banner-default.php:289
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/welcome.php:62
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/install-plugins.php:28
+#: inc/radiantthemes-dashboard/welcome.php:26
+msgid "Theme Options"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/welcome.php:74
+msgid "Theme Support"
+msgstr ""
+
+#: functions.php:2355
+msgid "Themify Icons"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+msgid "There are no reviews yet."
+msgstr ""
+
+#: inc/radiantthemes-dashboard/install-plugins.php:36
+msgid "These below plugins are required"
+msgstr ""
+
+#: inc/redux-framework/extensions/slides/slides/field_slides.php:122
+#: inc/redux-framework/extensions/slides/slides/field_slides.php:173
+msgid "Title"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:98 woocommerce/cart/cart-totals.php:99
+msgid "Total"
+msgstr ""
+
+#: inc/redux-framework/extensions/box_shadow/box_shadow/field_box_shadow.php:313
+#: inc/redux-framework/extensions/box_shadow/box_shadow/field_box_shadow.php:314
+#: inc/redux-framework/extensions/box_shadow/box_shadow/field_box_shadow.php:315
+#: inc/redux-framework/extensions/box_shadow/box_shadow/field_box_shadow.php:315
+msgid "Units"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:68
+msgid "Unyson"
+msgstr ""
+
+#: inc/redux-framework/extensions/slides/slides/field_slides.php:109
+#: inc/redux-framework/extensions/slides/slides/field_slides.php:164
+msgid "Upload"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/welcome.php:105
+msgid "Upload Max. Filesize"
+msgstr ""
+
+#: inc/redux-framework/extensions/slides/slides/field_slides.php:135
+#: inc/redux-framework/extensions/slides/slides/field_slides.php:186
+msgid "URL"
+msgstr ""
+
+#. Name of the theme
+msgid "UVO"
+msgstr ""
+
+#: functions.php:2430
+msgid "uvo"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"UVO is SEO &amp; Digital Marketing Agency Theme solely focused for SEO and "
+"Digital Marketing Firms. It has carefully crafted SEO demos, outstanding "
+"sliders made with Slider Revolution, Clean Coding, Fast Performance give it "
+"edge over other SEO Themes.. Outstanding Blog and Portfolio would give you "
+"scope to expand your site beyond a plain digital marketing site."
+msgstr ""
+
+#: inc/footer/footer-style-default.php:26
+msgid "UVO Theme - Made by "
+msgstr ""
+
+#: inc/radiantthemes-dashboard/install-plugins.php:19
+#: inc/radiantthemes-dashboard/welcome.php:17
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:103
+msgid "Very poor"
+msgstr ""
+
+#: inc/template-tags.php:432
+msgid "View Cart"
+msgstr ""
+
+#: functions.php:2778 comments.php:122
+msgid "Website"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/install-plugins.php:17
+#: inc/radiantthemes-dashboard/welcome.php:15
+msgid "Welcome to "
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:74
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/radiantthemes-dashboard/welcome.php:92
+msgid "WP Memory Limit"
+msgstr ""
+
+#: inc/redux-framework/extensions/box_shadow/box_shadow/field_box_shadow.php:229
+msgid "X"
+msgstr ""
+
+#: inc/redux-framework/extensions/box_shadow/box_shadow/field_box_shadow.php:247
+msgid "Y"
+msgstr ""
+
+#: inc/header/banner.php:889 inc/header/theme-banner.php:821
+#: inc/header/banner-default.php:321
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#. Month Date, Year.
+#: inc/header/banner.php:888 inc/header/theme-banner.php:820
+#: inc/header/banner-default.php:320
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#. %s opening and closing link tags respectively
+#: woocommerce/single-product-reviews.php:93
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: comments.php:125
+msgid "Your Comment *"
+msgstr ""
+
+#: inc/template-functions.php:129
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:2776
+msgid "Your email"
+msgstr ""
+
+#: comments.php:121
+msgid "Your Email *"
+msgstr ""
+
+#: functions.php:2775
+msgid "Your name"
+msgstr ""
+
+#: comments.php:120
+msgid "Your Name *"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+msgid "Your review"
+msgstr ""
+
+#: functions.php:2777
+msgid "Your website"
+msgstr ""
